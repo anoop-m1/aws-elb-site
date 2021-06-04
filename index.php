@@ -36,7 +36,7 @@ https://www.tooplate.com/view/2114-pixie
                <?php
 $output = shell_exec('echo $HOSTNAME');
 echo "<h1><center><pre>$output</pre></center></h1>";
-echo "<h1><center>Version 6.1111 </center></h1>"
+echo "<h1><center>MY OFFICIAL WEBSITE </center></h1>"
 ?>
             </span>
           </div>
